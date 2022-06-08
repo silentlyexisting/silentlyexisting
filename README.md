@@ -1,1 +1,1 @@
-![Badge](https://github-readme-stats.vercel.app/api?username=silentlyexisting&show_icons=true&theme=vision-friendly-dark)
+![Badge](https://github-readme-stats.vercel.app/api?username=silentlyexisting&show_icons=true&theme=vision-vue-dark)
